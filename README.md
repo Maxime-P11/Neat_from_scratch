@@ -7,10 +7,10 @@ test_XOR est un ficher pour tester Neat sur le problème XOR<br/>
 NEAT : c'est la version standard la plus rapide, elle n'utilise pas les espèces pour une question de vitesse, je recommande 2000 générations<br/>
 NEAT_species : implémente les espèces mais est lent, je recommande 500 - 1000 générations<br/>
 
-Puis j'ai recode tout en C++ : <br/>
+Puis j'ai recodé tout en C++ : <br/>
 Ceci est mon premier gros projets en C++.<br/>
-main.cpp est l'implementation avec les espèces, c'est plus lent.<br/>
-main_without_species est l'implementation sans les espèces, c'est plus rapide. je conseil d'utiliser cette version<br/>
+main.cpp est l'implémentation avec les espèces, c'est plus lent.<br/>
+main_without_species est l'implémentation sans les espèces, c'est plus rapide. je conseil d'utiliser cette version<br/>
 
 
 en :
